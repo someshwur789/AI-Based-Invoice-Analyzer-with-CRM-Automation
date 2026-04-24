@@ -44,7 +44,7 @@ The AI-Based Invoice Analyzer with CRM Automation is an intelligent system desig
 - git clone
 - cd Tab
 - npm i
-Run the application: npm run dev
+- Run the application: npm run dev
 
 <h3 style="font-size:20px;">🌐 Usage</h3>
 
